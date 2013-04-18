@@ -1,0 +1,8 @@
+
+.DS_Store
+
+.classpath
+
+.project
+WEB-INF/classes
+WEB-INF/lib
